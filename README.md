@@ -10,9 +10,31 @@ This repository contains the notebook shown in the context of the 2-hour hands-o
 
 ## Workshop
 
-- Event link: https://www.rsc.org/events/detail/73782/open-source-tools-for-chemists
+- [Event link](https://www.rsc.org/events/detail/73782/open-source-tools-for-chemists)
 - When? 2022-05-19
 - Where? Online
+
+## Material
+
+1. KLIFS database (Albert Kooistra): Presentation
+2. KLIFS application (Andrea Volkamer): Presentation
+3. KLIFS application (Dominique Sydow): [Notebook (Google Colab)](https://colab.research.google.com/github/volkamerlab/cicag_klifs_workshop/blob/main/klifs_workshop.ipynb)
+
+If you prefer to run the notebook locally (instead of using Google Colab), follow these instructions:
+
+```
+git clone git@github.com:volkamerlab/cicag_klifs_workshop.git
+cd cicag_klifs_workshop
+mamba env create -f environment.yaml
+conda activate cicag
+jupyter lab
+```
+
+The notebook is a mix of the following TeachOpenCADD notebooks:
+- [T012 · Data acquisition from KLIFS](https://projects.volkamerlab.org/teachopencadd/talktorials/T012_query_klifs.html)
+- [T025 · Kinase similarity: Kinase pocket (KiSSim fingerprint)](https://projects.volkamerlab.org/teachopencadd/talktorials/T025_kinase_similarity_kissim.html)
+- [T026 · Kinase similarity: Interaction fingerprints](https://projects.volkamerlab.org/teachopencadd/talktorials/T026_kinase_similarity_ifp.html)
+- [T028 · Kinase similarity: Compare different perspectives](https://projects.volkamerlab.org/teachopencadd/talktorials/T028_kinase_similarity_compare_perspectives.html)
 
 ## Abstract
 
