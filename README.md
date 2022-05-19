@@ -18,7 +18,7 @@ This repository contains the material shown in the context of the 2-hour hands-o
 ## Material
 
 1. KLIFS database (Albert Kooistra): Presentation (Youtube TBA)
-2. KLIFS application (Andrea Volkamer): [Presentation](https://github.com/volkamerlab/cicag_klifs_workshop/blob/slides-av/ShortPres_CICAG_workshop_nosuppl.pdf)
+2. KLIFS application (Andrea Volkamer): [Presentation](https://github.com/volkamerlab/cicag_klifs_workshop/blob/main/ShortPres_CICAG_workshop_nosuppl.pdf)
 3. KLIFS application (Dominique Sydow): [Notebook (Google Colab)](https://colab.research.google.com/github/volkamerlab/cicag_klifs_workshop/blob/main/klifs_workshop.ipynb)
 
 ### Notes on the notebook
