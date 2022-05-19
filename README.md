@@ -5,8 +5,8 @@ Albert J. Kooistra, University of Copenhagen, Dominique Sydow & Andrea Volkamer,
 This repository contains the material shown in the context of the 2-hour hands-on RCS CICAG workshop on KLIFS, OpenCADD-KLIFS, and KiSSim.
 
 - KLIFS &mdash; [website](https://klifs.net) and [paper](https://doi.org/10.1093/nar/gkaa895)
-- OpenCADD-KLIFS &mdash; [code](github.com/volkamerlab/opencadd) and [paper](https://joss.theoj.org/papers/10.21105/joss.03951)
-- KiSSim &mdash; [code](github.com/volkamerlab/kissim) and [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.2c00050)
+- OpenCADD-KLIFS &mdash; [code](github.com/volkamerlab/opencadd) and [paper](https://joss.theoj.org/papers/10.21105/joss.03951) and [documentation](https://opencadd.readthedocs.io/en/latest/tutorials/databases_klifs.html)
+- KiSSim &mdash; [code](github.com/volkamerlab/kissim) and [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.2c00050) and [documentation](https://kissim.readthedocs.io)
 
 ## Workshop
 
@@ -17,8 +17,8 @@ This repository contains the material shown in the context of the 2-hour hands-o
 
 ## Material
 
-1. KLIFS database (Albert Kooistra): Presentation
-2. KLIFS application (Andrea Volkamer): Presentation
+1. KLIFS database (Albert Kooistra): Presentation (Youtube TBA)
+2. KLIFS application (Andrea Volkamer): Presentation (TBA)
 3. KLIFS application (Dominique Sydow): [Notebook (Google Colab)](https://colab.research.google.com/github/volkamerlab/cicag_klifs_workshop/blob/main/klifs_workshop.ipynb)
 
 ### Notes on the notebook
