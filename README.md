@@ -13,12 +13,12 @@ This repository contains the material shown in the context of the 2-hour hands-o
 - [Event link](https://www.rsc.org/events/detail/73782/open-source-tools-for-chemists)
 - When? 2022-05-19
 - Where? Online
-- Recording: TBA
+- Recording: [YouTube](https://youtu.be/UgxYZGXLRfw)
 
 ## Material
 
-1. KLIFS database (Albert Kooistra): Presentation (Youtube TBA)
-2. KLIFS application (Andrea Volkamer): [Presentation](https://github.com/volkamerlab/cicag_klifs_workshop/blob/main/ShortPres_CICAG_workshop_nosuppl.pdf)
+1. KLIFS database (Albert Kooistra): [Presentation on YouTube](https://youtu.be/UgxYZGXLRfw)
+2. KLIFS application (Andrea Volkamer): [Slides](https://github.com/volkamerlab/cicag_klifs_workshop/blob/main/ShortPres_CICAG_workshop_nosuppl.pdf)
 3. KLIFS application (Dominique Sydow): [Notebook (Google Colab)](https://colab.research.google.com/github/volkamerlab/cicag_klifs_workshop/blob/main/klifs_workshop.ipynb)
 
 ### Notes on the notebook
