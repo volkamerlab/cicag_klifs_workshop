@@ -1,5 +1,7 @@
 # RSC CICAG workshop &mdash; KLIFS: making kinase structures work
 
+[![DOI](https://zenodo.org/badge/492972401.svg)](https://zenodo.org/badge/latestdoi/492972401)
+
 Albert J. Kooistra, University of Copenhagen, Dominique Sydow & Andrea Volkamer, Charité – Universitätsmedizin Berlin
 
 This repository contains the material shown in the context of the 2-hour hands-on RCS CICAG workshop on KLIFS, OpenCADD-KLIFS, and KiSSim.
