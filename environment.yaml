@@ -3,6 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - python>=3.8
-  - kissim
+  # https://github.com/volkamerlab/kissim/issues/112
+  - ipywidgets<8
   - jupyter
   - jupyterlab>=3
+  - kissim
